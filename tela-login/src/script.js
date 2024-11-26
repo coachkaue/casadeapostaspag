@@ -7,7 +7,7 @@ function logar(event) {
     // Simulação de autenticação (substitua por sua lógica de autenticação)
     if (username === 'admin' && password === 'password123') {
         // Redirecionamento para a página principal
-        window.location.href = "https://coachkaue.github.io/casadeapostaspag/#";
+        window.location.href = "file:///C:/Users/kaue/Downloads/cria%C3%A7%C3%A3o%20do%20portif%C3%B3lio/index.html";
     } else {
         alert('Usuário ou senha inválidos');
     }
